@@ -78,7 +78,7 @@ Em 21/10/2026, o responsável autorizou a integração oficial do GitHub restrit
 
 | Campo | Valor |
 | --- | --- |
-| Repositório | `iurytralha157-lab/grisi-care-compass` |
+| Repositório | `marciogrisi/site-instituto-grisi` (desde 22/10/2026; antes, `iurytralha157-lab/grisi-care-compass`) |
 | Branch de produção | `main` |
 | Framework preset | `None` |
 | Build command | `npm ci && npm test && npm run build` |

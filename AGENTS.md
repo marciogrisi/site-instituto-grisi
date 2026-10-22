@@ -102,9 +102,12 @@ correção proposta antes de editar.
 
 ## Publicação automática autorizada em 21/10/2026
 
-- Projeto Cloudflare Pages: `grisi-care-compass`, conectado ao repositório GitHub
-  `iurytralha157-lab/grisi-care-compass`, branch de produção `main`. O aplicativo
-  oficial do GitHub foi autorizado somente para esse repositório.
+- Projeto Cloudflare Pages: `grisi-care-compass`, branch de produção `main`.
+  Em 22/10/2026, o responsável definiu `marciogrisi/site-instituto-grisi` como a
+  versão original do site e repositório de trabalho, no lugar de
+  `iurytralha157-lab/grisi-care-compass`, do qual ele foi copiado. O aplicativo
+  oficial do GitHub deve permanecer restrito ao repositório conectado ao Pages;
+  confira essa conexão no painel do Pages antes de relatar uma publicação.
 - Configuração aprovada: framework preset `None`; build
   `npm ci && npm test && npm run build`; diretório de saída `.output/public`;
   variáveis `NODE_VERSION=24`, `SKIP_DEPENDENCY_INSTALL=1` e
